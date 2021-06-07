@@ -26,8 +26,8 @@
 <br/>
 
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/ohmkhur)
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ohm-khur/)](https://www.linkedin.com/in/ohm-khur/)
+[![Twitter: ohmkhur](https://img.shields.io/twitter/follow/ohmkhur?style=social)](https://twitter.com/ohmkhur)
+[![Linkedin: ohmkhur](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ohm-khur/)](https://www.linkedin.com/in/ohm-khur/)
 [![GitHub OhmKhay](https://img.shields.io/github/followers/OhmKhay?label=follow&style=social)](https://github.com/OhmKhay)
 [![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://ohmkhur.com/)
 
