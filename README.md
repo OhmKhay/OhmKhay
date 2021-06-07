@@ -27,7 +27,7 @@
 [![website](https://img.shields.io/badge/PortfolioWebsite-ohmkhur.com-2648ff?style=flat-square&logo=google-chrome)](https://ohmkhur.com/)
 
 
-**Languages and Tools:**  
+**Languages:**  
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
