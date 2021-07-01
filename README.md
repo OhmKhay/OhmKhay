@@ -12,9 +12,9 @@
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<a href="https://www.facebook.com/ohmkhursai/">
+<!-- <a href="https://www.facebook.com/ohmkhursai/">
   <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+</a> -->
 
 
 <br/>
@@ -36,9 +36,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-<!-- <a href="https://github.com/OhmKhay">
+<a href="https://github.com/OhmKhay">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhmKhay&theme=light&hide_langs_below=1" />
-</a> -->
+</a>
 <a href="https://github.com/OhmKhay">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OhmKhay&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
