@@ -18,13 +18,7 @@
 
 
 <br/>
-<br/>
 
-
-[![Twitter: ohmkhur](https://img.shields.io/twitter/follow/ohmkhur?style=social)](https://twitter.com/ohmkhur)
-[![Linkedin: ohmkhur](https://img.shields.io/badge/-ohmkhur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ohm-khur/)](https://www.linkedin.com/in/ohm-khur/)
-[![GitHub OhmKhay](https://img.shields.io/github/followers/OhmKhay?label=follow&style=social)](https://github.com/OhmKhay)
-[![website](https://img.shields.io/badge/PortfolioWebsite-ohmkhur.com-2648ff?style=flat-square&logo=google-chrome)](https://www.ohmkhur.com/)
 
 
 **Languages:**  
